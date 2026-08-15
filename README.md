@@ -187,7 +187,7 @@ The next repository will focus on:
 - Hybrid Identity
 - Azure
 
-➡️ **Repository:** **IT-HomeLab-Cloud-Identity** *(Coming Soon)*
+➡️ **Repository:** [**IT-HomeLab-Cloud-Identity**](https://github.com/ali-turkoglu/IT-HomeLab-Cloud-Identity)
 
 ---
 
