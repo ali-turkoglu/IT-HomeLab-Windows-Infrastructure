@@ -137,6 +137,7 @@ The project is divided into small phases. Each phase focuses on one technology a
 - ✅ [Phase 7 – DNS & DHCP](docs/7-DNS-DHCP/README.md)
 - ✅ [Phase 8 – Domain Client & Group Policy](docs/8-Domain-Client&Group-Policy/README.md)
 - ✅ [Phase 9 – Active Directory Organization & File Sharing](docs/9-Active-Directory-Organization&Security-File-Sharing/README.md)
+- ✅ [Phase 9b - Secure File Transfer with FTPS](docs/9b-Secure-File-Transfer-with-FTPS/README.md)
 - ✅ [Phase 10 – Print Server Configuration](docs/10–Print-Server-Configuration/README.md)
 - ✅ [Phase 11a – Windows Server Backup](docs/11-Windows-Backup-Server/README.md)
 - ✅ [Phase 11b – Veeam Backup & Replication](docs/11b-Veeam-Backup&Replication/README.md)
@@ -167,6 +168,7 @@ This timeline shows the main milestones of the project.
 | 25-07-2026 | Phase 11a – Windows Server Backup completed |
 | 26-07-2026 | Phase 11b – Veeam Backup & Replication completed |
 | 27-07-2026 | Phase 12 – Windows Server Update Services completed |
+| 22-09-2026 | Phase 9b – Secure File Transfer with FTPS completed |
 
 ---
 
