@@ -163,4 +163,4 @@ The same validation was also performed successfully for the HR, IT, and Manageme
 
 | Previous | Home | Next |
 |:--------:|:----:|:----:|
-| ⬅️ [ Group Policy & Domain Join](../8-Domain-Client&Group-Policy/README.md) | 🏠 [Home](../../README.md) | ➡️ [Print Server Configuration](../10–Print-Server-Configuration/README.md) |
+| ⬅️ [ Group Policy & Domain Join](../8-Domain-Client&Group-Policy/README.md) | 🏠 [Home](../../README.md) | ➡️ [Secure File Transfer with FTPS](../9b-Secure-File-Transfer-with-FTPS/README.md) |
