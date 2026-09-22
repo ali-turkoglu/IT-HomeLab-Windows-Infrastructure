@@ -90,4 +90,4 @@ This confirmed that the Print Server deployment was working successfully and tha
 
 | Previous | Home | Next |
 |:--------:|:----:|:----:|
-| ⬅️ [Active Directory Organization](../9-Active-Directory-Organization&Security-File-Sharing/README.md) | 🏠 [Home](../../README.md) | ➡️ [Windows Backup Server](../11-Windows-Backup-Server/README.md) |
+| ⬅️ [Secure File Transfer with FTPS](../9b-Secure-File-Transfer-with-FTPS/README.md) | 🏠 [Home](../../README.md) | ➡️ [Windows Backup Server](../11-Windows-Backup-Server/README.md) |
